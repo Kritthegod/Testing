@@ -12,7 +12,7 @@ public class Main {
      */
     public static void main(String[] args) {
         //This is output.
-        System.out.printf("Hello World");
+        System.out.print("Hello World");
 
     }
 }
